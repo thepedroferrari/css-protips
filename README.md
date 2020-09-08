@@ -116,7 +116,7 @@ button {
 }
 ```
 
-**Note:** the `all` shorthand isn't supported in IE11 and is currently under consideration for support in Edge. `unset` isn't supported in IE11.
+**Note:** the `all` shorthand and the `unset` value aren't supported in IE11.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
